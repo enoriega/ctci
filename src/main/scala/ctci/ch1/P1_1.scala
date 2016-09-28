@@ -3,7 +3,7 @@ package ctci.ch1
 object P1_1 extends App {
 
     // This implementation makes no use of any auxiliary data structure
-    // It's case insensitive
+    // It's case sensitive
     def uniqueCharacters(s:String):Boolean = {
         // Sort the String
         // Enrique => Eeinqru
